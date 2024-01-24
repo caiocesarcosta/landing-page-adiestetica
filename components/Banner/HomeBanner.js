@@ -34,7 +34,7 @@ export const HomeBanner = () => {
                         </p>
                     </Content>
                     <div className="mt-6 mb-16 text-center">
-                        <ButtonGroup alignment="center">
+                        {/* <ButtonGroup alignment="center">
                             <Button href="#features">Features</Button>
                             <a
                                 role="button"
@@ -44,7 +44,7 @@ export const HomeBanner = () => {
                                 Get Template
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
                             </a>
-                        </ButtonGroup>
+                        </ButtonGroup> */}
                     </div>
                 </MotionBTTContainer>
                 {/* Appear Fourth */}
