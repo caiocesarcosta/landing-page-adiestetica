@@ -72,7 +72,7 @@ export const Footer = () => {
                                     />
                                 </Link>
                                 {/* Get Template button; remove if not used */}
-                                <ButtonGroup alignment="left">
+                                {/* <ButtonGroup alignment="left">
                                     <a
                                         role="button"
                                         href="https://github.com/christian-luntok/nutritrack"
@@ -81,7 +81,7 @@ export const Footer = () => {
                                         Get Template
                                         <Icon icon="material-symbols:arrow-forward-rounded" />
                                     </a>
-                                </ButtonGroup>
+                                </ButtonGroup> */}
                             </div>
                         </div>
                         <div className="col-span-6">

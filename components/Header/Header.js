@@ -28,7 +28,7 @@ export const Header = () => {
                 </div>
                 <SectionContainer className="flex items-center ml-auto">
                     <Nav />
-                    <ButtonGroup className="hidden md:block">
+                    {/* <ButtonGroup className="hidden md:block">
                         <a
                             role="button"
                             href="https://github.com/christian-luntok/nutritrack"
@@ -37,7 +37,7 @@ export const Header = () => {
                             Get Template
                             <Icon icon="material-symbols:arrow-forward-rounded" />
                         </a>
-                    </ButtonGroup>
+                    </ButtonGroup> */}
                 </SectionContainer>
             </SectionContainer>
         </header>
