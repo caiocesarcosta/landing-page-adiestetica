@@ -18,10 +18,11 @@ export const HomeBanner = () => {
                         <BadgeIcon icon="game-icons:meal" />
                     </BadgeGroup>
                 </MotionBTTContainer>
+                
                 {/* Appear Second */}
                 <MotionBTTContainer transition={{ delay: 0.4, duration: 0.5 }}>
                     <PageTitle className="text-center mx-auto" type="heavy">
-                        "Edaestetica: Transformando Beleza em Arte!!!"
+                        Edaestetica: Transformando Beleza em Arte!
                     </PageTitle>
                 </MotionBTTContainer>
                 {/* Appear Third */}
