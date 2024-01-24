@@ -22,7 +22,7 @@ export default function Home() {
         <Layout className="">
             <SEO
                 title="EDaestética"
-                description="Bem-vindo à Edaestetica - O Seu Refúgio de Beleza e Bem-Estar! Na Edaestetica, nós nos dedicamos a proporcionar experiências únicas de cuidados com a beleza, onde a harmonia entre corpo e mente é prioridade. Nossa equipe especializada oferece uma variedade de serviços premium, desde procedimentos clássicos até tratamentos inovadores. Desfrute de nossa Escleroterapia (PEIM), Enzimas Lipolíticas, Drenagem Linfática, e muito mais. Estamos comprometidos em realçar sua beleza natural, proporcionando resultados excepcionais em um ambiente acolhedor e tranquilo. Descubra o poder transformador da Edaestetica - onde a estética encontra a excelência!"
+                description="Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease."
             />
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}

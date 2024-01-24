@@ -21,8 +21,7 @@ export const HomeBanner = () => {
                 {/* Appear Second */}
                 <MotionBTTContainer transition={{ delay: 0.4, duration: 0.5 }}>
                     <PageTitle className="text-center mx-auto" type="heavy">
-                        The effortless way to plan your meals with the power of
-                        Notion.
+                        "Edaestetica: Transformando Beleza em Arte!!!"
                     </PageTitle>
                 </MotionBTTContainer>
                 {/* Appear Third */}
