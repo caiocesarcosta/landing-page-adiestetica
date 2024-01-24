@@ -33,7 +33,7 @@ export const HomeBanner = () => {
                             health goals with ease.{" "}
                         </p>
                     </Content>
-                    <div className="mt-6 mb-16 text-center">
+                    {/* <div className="mt-6 mb-16 text-center">
                         <ButtonGroup alignment="center">
                             <Button href="#features">Features</Button>
                             <a
@@ -45,7 +45,7 @@ export const HomeBanner = () => {
                                 <Icon icon="material-symbols:arrow-forward-rounded" />
                             </a>
                         </ButtonGroup>
-                    </div>
+                    </div> */}
                 </MotionBTTContainer>
                 {/* Appear Fourth */}
                 <MotionBTTContainer transition={{ delay: 0.8, duration: 0.5 }}>
