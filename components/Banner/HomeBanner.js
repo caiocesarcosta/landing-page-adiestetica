@@ -29,8 +29,7 @@ export const HomeBanner = () => {
                 <MotionBTTContainer transition={{ delay: 0.6, duration: 0.5 }}>
                     <Content className="text-center" alignment="center">
                         <p>
-                            Streamline your nutrition journey and achieve your
-                            health goals with ease.{" "}
+                            Na Edaestetica, desvendamos a beleza que há em você. Com uma abordagem personalizada, oferecemos uma gama de serviços estéticos, desde procedimentos inovadores até tratamentos tradicionais, visando realçar sua autoestima e revelar a melhor versão de si mesmo.{" "}
                         </p>
                     </Content>
                     <div className="mt-6 mb-16 text-center">

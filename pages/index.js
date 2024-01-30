@@ -22,7 +22,7 @@ export default function Home() {
         <Layout className="">
             <SEO
                 title="EDaestética"
-                description="Na Edaestetica, desvendamos a beleza que há em você. Com uma abordagem personalizada, oferecemos uma gama de serviços estéticos, desde procedimentos inovadores até tratamentos tradicionais, visando realçar sua autoestima e revelar a melhor versão de si mesmo."
+                description="Discover NutriTrack, the effortless way to plan your meals with the power of Notion. Streamline your nutrition journey and achieve your health goals with ease."
             />
             <div className="main-wrapper bg-[#F3F5F8] relative z-10 pb-20 pt-20 ">
                 {/* { Page Banner } */}
