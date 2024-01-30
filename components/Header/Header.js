@@ -19,8 +19,8 @@ export const Header = () => {
                                 src="/nutritrack.svg"
                                 alt="logo"
                                 className="h-6 w-auto"
-                                height="24"
-                                width="100"
+                                height="50"
+                                width="300"
                                 priority
                             />
                         </Link>
