@@ -45,12 +45,7 @@ export default function Home() {
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    Hey there! Welcome to NutriTrack, the
-                                    ultimate nutrition meal planner powered by
-                                    Notion. We&apos;ve got some awesome features
-                                    lined up to make your nutrition journey a
-                                    piece of cake (pun intended). Check them
-                                    out:
+                                    Explore a Harmonização Corporal, onde a beleza se encontra com a ciência. Apresentamos tratamentos premium com a aplicação especializada de enzimas lipolíticas, esculpindo e modelando seu corpo de forma única. Transforme sua experiência estética com resultados surpreendentes. Sinta-se bem, sinta-se bela. Confira
                                 </p>
                             </Content>
                             <ContentImage />
