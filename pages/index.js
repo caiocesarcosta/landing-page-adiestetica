@@ -41,7 +41,7 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                "Descubra a Serenidade: Serviços Exclusivos para Elevar sua Autoestima e Cuidar do Seu Corpo com Ternura"
+                                ""Descubra-se - Serviços Exclusivos para Elevar sua Elegância"
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
