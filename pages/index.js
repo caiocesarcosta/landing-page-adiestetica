@@ -41,7 +41,7 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                "Desperte Sua Beleza Interior: Envolva-se em Serviços Estéticos Exclusivos que Elevam a Autoestima e Celebram Sua Elegância Única
+                                "Descubra a Serenidade: Serviços Exclusivos para Elevar sua Autoestima e Cuidar do Seu Corpo com Ternura"
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
