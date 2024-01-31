@@ -35,7 +35,7 @@ export default function Home() {
                     >
                         <SectionContainer id="features" className="features">
                             <BadgeGroup alignment="center">
-                                <BadgeMessage>Features</BadgeMessage>
+                                <BadgeMessage>serviços</BadgeMessage>
                             </BadgeGroup>
                             <PageTitle
                                 className="text-center mx-auto"
