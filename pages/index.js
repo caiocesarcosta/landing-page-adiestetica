@@ -41,7 +41,7 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Simplify Your Nutrition Journey with NutriTrack
+                                "Desperte Sua Beleza Interior: Envolva-se em Serviços Estéticos Exclusivos que Elevam a Autoestima e Celebram Sua Elegância Única
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
