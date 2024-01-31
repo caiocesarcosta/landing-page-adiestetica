@@ -45,7 +45,7 @@ export default function Home() {
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
-                                    Explore a Harmonização Corporal, onde a beleza se encontra com a ciência. Apresentamos tratamentos premium com a aplicação especializada de enzimas lipolíticas, esculpindo e modelando seu corpo de forma única. Transforme sua experiência estética com resultados surpreendentes. Sinta-se bem, sinta-se bela. Confira
+                                    Explore a Harmonização Corporal, onde a beleza se encontra com a ciência. Apresentamos tratamentos premium com a aplicação especializada de enzimas lipolíticas, esculpindo e modelando seu corpo de forma única. Transforme sua experiência estética com resultados surpreendentes. Sinta-se bem, sinta-se bela. Confira!!
                                 </p>
                             </Content>
                             <ContentImage />
