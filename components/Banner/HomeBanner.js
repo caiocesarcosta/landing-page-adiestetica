@@ -34,7 +34,7 @@ export const HomeBanner = () => {
                     </Content>
                     <div className="mt-6 mb-16 text-center">
                         {/* <ButtonGroup alignment="center">
-                            <Button href="#features">Features</Button>'
+                            <Button href="#features">Serviços</Button>'
                             <a
                                 role="button"
                                 href="https://github.com/christian-luntok/nutritrack"
