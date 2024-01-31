@@ -41,7 +41,7 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                ""Descubra-se - Serviços Exclusivos para Elevar sua Elegância"
+                                Descubra-se - Serviços Exclusivos para Elevar sua Elegância
                             </PageTitle>
                             <Content className="text-center" alignment="center">
                                 <p>
