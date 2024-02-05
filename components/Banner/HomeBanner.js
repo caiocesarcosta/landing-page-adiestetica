@@ -14,8 +14,8 @@ export const HomeBanner = () => {
                 {/* Appear First */}
                 <MotionBTTContainer transition={{ delay: 0.2, duration: 0.5 }}>
                     <BadgeGroup alignment="center">
-                        <BadgeMessage>Conheça Edi Aestética!</BadgeMessage>
-                        <BadgeIcon icon="game-icons:meal" />
+                        <BadgeMessage>Conheça EDAestética!</BadgeMessage>
+                        {/* <BadgeIcon icon="game-icons:meal" /> */}
                     </BadgeGroup>
                 </MotionBTTContainer>
                 
