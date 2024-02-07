@@ -84,10 +84,10 @@ export default function Home() {
                                 className="text-center mx-auto"
                                 type="default"
                             >
-                                Got some burning questions about NutriTrack?{" "}
+                                Tem algumas dúvidas sobre o Estética?{" "}
                                 <br></br>
-                                <br></br>No worries! We&apos;ve got the answers
-                                you need:
+                                {/* <br></br>No worries! We&apos;ve got the answers */}
+                                {/* you need: */}
                             </PageTitle>
                             <Accordion />
                         </SectionContainer>

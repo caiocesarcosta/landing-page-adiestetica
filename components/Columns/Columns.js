@@ -5,31 +5,31 @@ import { v4 as uuid } from "uuid";
 const ColumnData = [
     {
         id: uuid(),
-        title: "Emily J.",
+        title: "Clara Mendes",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has revolutionized my meal planning and nutrition journey. With its intuitive Notion template, I can effortlessly plan my meals, track my nutrition, and stay on top of my health goals. It's truly a game-changer!"
+            "Estou absolutamente encantada com os resultados dos tratamentos na EDaestética! Minha pele está mais radiante do que nunca, e a equipe foi incrível em me orientar sobre os cuidados adequados. Mal posso esperar para voltar!"
     },
     {
         id: uuid(),
-        title: "Jason F.",
+        title: "Pedro Oliveira",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I've tried various meal planning tools, but NutriPlan stands out from the rest. The customizable layouts and seamless recipe integration make it a breeze to create delicious and healthy meals. It's become an essential part of my wellness routine."
+            "Desde que comecei os tratamentos na EDaestética, minha autoestima deu um salto! A redução das rugas e a melhoria da textura da minha pele foram além das minhas expectativas. Recomendo a todos!"
     },
     {
         id: uuid(),
-        title: "Miguel J.",
+        title: "Ana Silva",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "NutriPlan has made meal planning and tracking nutrition so much easier and enjoyable. The comprehensive features and user-friendly interface have helped me stay on track with my health goals. I highly recommend it to anyone looking for a convenient and effective solution."
+            "Estou simplesmente maravilhada com o atendimento da EDaestética. Os profissionais são extremamente atenciosos e competentes. Meu corpo está se transformando de uma maneira que eu nunca pensei ser possível. Muito obrigada!"
     },
     {
         id: uuid(),
-        title: "Kim L.",
+        title: "Juliana Santos",
         icon: "carbon:user-avatar-filled-alt",
         content:
-            "I can't imagine my nutrition journey without NutriPlan. It has simplified the way I plan my meals and track my progress. The ability to customize layouts and easily integrate recipes has made healthy eating a breeze. It's been a true lifesaver!"
+            "Minha experiência na EDaestética foi simplesmente excepcional. Os resultados dos tratamentos superaram todas as minhas expectativas. Estou radiante e me sentindo mais bonita do que nunca. Recomendo a todos que buscam cuidados estéticos de alta qualidade!"
     }
 ];
 

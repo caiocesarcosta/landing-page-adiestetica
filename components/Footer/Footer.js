@@ -6,14 +6,14 @@ import { Icon } from "@iconify/react";
 
 const DATA = [
     {
-        title: "Template",
+        title: "Menu",
         items: [
             {
-                label: "Features",
+                label: "Serviços",
                 href: "#features"
             },
             {
-                label: "Testimonials",
+                label: "Depoimentos",
                 href: "#testimonials"
             },
             {
@@ -25,24 +25,24 @@ const DATA = [
     {
         title: "Company",
         items: [
-            {
-                label: "About",
-                href: "https://github.com/christian-luntok/",
-                target: "_blank"
-            },
-            {
-                label: "Twitter",
-                href: "https://github.com/christian-luntok/",
-                target: "_blank"
-            },
+            // {
+            //     label: "About",
+            //     href: "https://github.com/christian-luntok/",
+            //     target: "_blank"
+            // },
+            // {
+            //     label: "Twitter",
+            //     href: "https://github.com/christian-luntok/",
+            //     target: "_blank"
+            // },
             {
                 label: "Instagram",
-                href: "https://github.com/christian-luntok/",
+                href: "https://instagram.com/stories/edileal3/3135903562785820491?igshid=MTc4MmM1YmI2Ng%3D%3D",
                 target: "_blank"
             },
             {
                 label: "Facebook",
-                href: "https://github.com/christian-luntok/",
+                href: "https://www.facebook.com/edilaine.leal.39?mibextid=ZbWKwL",
                 target: "_blank"
             }
         ]

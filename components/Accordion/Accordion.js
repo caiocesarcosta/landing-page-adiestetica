@@ -7,30 +7,30 @@ import clsx from "clsx";
 const accordionData = [
     {
         id: uuid(),
-        title: "What is Notion?",
+        title: "O que é estética?",
         isOpen: true,
         content:
-            "Notion is an all-in-one productivity tool that allows you to create notes, databases, and collaborative workspaces, making it easy to organize and manage your tasks, projects, and ideas in one place."
+            "A estética é um campo que engloba cuidados com a aparência física, visando aprimorar a beleza e promover o bem-estar. Envolve uma variedade de procedimentos e práticas para cuidar da pele, cabelos, unhas e corpo. Além de focar na melhoria da aparência, a estética também está associada à autoestima e ao bem-estar emocional, proporcionando uma sensação de confiança e satisfação pessoal."
     },
     {
         id: uuid(),
-        title: "Who is this template for?",
+        title: "Quais são seus benefícios?",
         isOpen: false,
         content:
-            "This template is specifically designed for Notion creators who want to create a personalized landing page for their Notion workspace, showcasing their projects, services, or content in a visually appealing manner."
+            "A estética oferece uma série de benefícios, incluindo melhora da autoestima, sensação de bem-estar, rejuvenescimento da pele, correção de imperfeições, melhor saúde da pele, expressão individual e relaxamento. Além de promover uma aparência física mais atraente, os cuidados estéticos também contribuem para a saúde mental, emocional e o bem-estar geral."
     },
     {
         id: uuid(),
-        title: "Do I need to pay for this?",
+        title: "Demora para ter resultados?",
         isOpen: false,
-        content: "No, this is free."
+        content: "A rapidez dos resultados na estética pode variar significativamente dependendo do tipo de tratamento realizado, das necessidades individuais do paciente e de outros fatores, como a consistência na aplicação dos cuidados recomendados. Alguns tratamentos estéticos, como uma limpeza facial básica, podem apresentar resultados imediatos, enquanto outros, como a redução de rugas ou a perda de peso, podem exigir várias sessões ao longo do tempo para alcançar os resultados desejados. É importante discutir as expectativas de tempo e os resultados esperados com um profissional qualificado para obter uma compreensão clara dos resultados e do cronograma do tratamento."
     },
     {
         id: uuid(),
-        title: "Where can I ask more questions about this template?",
+        title: "É recomendável passar em um nutricionista para maxizar os resutados?",
         isOpen: false,
         content:
-            "If you have any further questions or need assistance regarding this template, please feel free to reach out to me on my website, or click the Contact within the navigation links."
+            "Sim, é altamente recomendável consultar um nutricionista para maximizar os resultados em muitos tratamentos estéticos, especialmente aqueles relacionados à perda de peso, melhoria da saúde da pele e promoção de uma aparência geral mais saudável. Um nutricionista pode oferecer orientações personalizadas sobre dieta, nutrição e estilo de vida que podem complementar os tratamentos estéticos, otimizando os resultados e promovendo uma abordagem holística para a saúde e o bem-estar. Além disso, um nutricionista pode ajudar a identificar quaisquer deficiências nutricionais ou desequilíbrios que possam estar afetando a saúde da pele, o peso corporal ou outros aspectos da aparência física, fornecendo recomendações específicas para abordar essas preocupações. Em resumo, a colaboração entre profissionais de estética e nutrição pode ser altamente benéfica para alcançar os melhores resultados estéticos e de saúde possíveis."
     }
 ];
 
