@@ -53,6 +53,7 @@ export default function Home() {
                     </MotionBTTContainer>
                     {/* Card Container Tabs */}
                    {/* removido mais serviços aqui */}
+                   
                     {/* Testimonials */}
                     <MotionBTTContainer
                         transition={{ delay: 0.2, duration: 0.5 }}
@@ -61,13 +62,12 @@ export default function Home() {
                             id="testimonials"
                             className="benefits"
                         >
-                            <BadgeGroup alignment="left">
-                                <BadgeMessage>Testimonials</BadgeMessage>
+                            <BadgeGroup alignment="center">
+                                <BadgeMessage>Depoimentos</BadgeMessage>
                                 <BadgeIcon icon="twemoji:waving-hand" />
                             </BadgeGroup>
-                            <PageTitle className="" type="default">
-                                This is what our customers have to say about
-                                this template
+                            <PageTitle className="text-center mx-auto" type="default">
+                                Depoimentos de Clientes: Experiências Transformadoras na EDaestética.
                             </PageTitle>
                             <Columns />
                         </SectionContainer>
