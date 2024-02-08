@@ -66,8 +66,8 @@ export const Footer = () => {
                                         src="/nutritrack.svg"
                                         alt="logo"
                                         className="h-10 w-auto"
-                                        height="25"
-                                        width="100"
+                                        height="50"
+                                        width="500"
                                         priority
                                     />
                                 </Link>
@@ -124,7 +124,7 @@ export const Footer = () => {
                 </div>
             </SectionContainer>
             {/* Footer Credits */}
-            <SectionContainer className="footer-credits relative z-10">
+            {/* <SectionContainer className="footer-credits relative z-10">
                 <div className="wrap wrap-px py-6">
                     <p className="my-0">
                         © {year} Nutritrack. All rights reserved{" - "}
@@ -140,7 +140,7 @@ export const Footer = () => {
                         </span>
                     </p>
                 </div>
-            </SectionContainer>
+            </SectionContainer> */}
             <div className="footer--background"></div>
         </footer>
     );

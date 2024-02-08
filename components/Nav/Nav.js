@@ -8,7 +8,7 @@ const navigation = [
     { name: "Depoimentos", to: "#testimonials", href: "/#testimonials" },
     { name: "FAQ?", to: "#faq", href: "/#faq" },
     {
-        name: "Contato",
+        name: "Sobre",
         href: "https://chrstnl.com/",
         isArrow: true,
         target: "_blank"
