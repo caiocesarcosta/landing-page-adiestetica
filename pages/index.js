@@ -9,7 +9,7 @@ import { Content } from "@components/Content";
 import { Accordion } from "@components/Accordion";
 import { MotionBTTContainer } from "@components/Motion";
 import { SEO } from "@components/SEO";
-import { Maps } from "@components/Maps";
+
 
 
 import {
